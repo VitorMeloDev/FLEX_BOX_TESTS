@@ -5,10 +5,14 @@
     border: 4px solid darkblue;
     display: flex;
     
-    flex-direction: column; 
-    /*flex-direction: column-reverse;*/
-    /*flex-direction: row;*/
+    flex-direction: row;
     /*flex-direction: row-reverse;*/
+    /*flex-direction: column;*/ 
+    /*flex-direction: column-reverse;*/
+
+    /* flex-wrap: wrap; */
+    /* flex-wrap: nowrap; */
+    flex-wrap: wrap-reverse;
 }
 
 .box{
