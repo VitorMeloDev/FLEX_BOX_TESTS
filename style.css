@@ -3,6 +3,7 @@
     height: 600px;
     background-color: azure;
     border: 4px solid darkblue;
+    display: flex;
 }
 
 .box{
